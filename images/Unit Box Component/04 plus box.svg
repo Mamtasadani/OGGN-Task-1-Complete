@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="57" viewBox="0 0 50 57">
+  <g id="plus_box" data-name="plus box" fill="#cbcbcb" stroke="#707070" stroke-width="1">
+    <path d="M0,0H22A28,28,0,0,1,50,28v1A28,28,0,0,1,22,57H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+    <path d="M.5.5H22A27.5,27.5,0,0,1,49.5,28v1A27.5,27.5,0,0,1,22,56.5H.5a0,0,0,0,1,0,0V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+  </g>
+</svg>
